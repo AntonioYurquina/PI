@@ -1,0 +1,3 @@
+Las **personas innovadoras** a menudo tienen ideas contrarias a la prudencia, por lo que no son apreciadas por sus colegas ni sus contribuciones son bien aceptadas en la mayoría de los casos; por tanto, no es de sorprender que muchos emprendedores salgan de las grandes compañías y empiecen su propia empresa.
+
+Cuando Steve Wozniak no pudo realizar su sueño de construir una computadora pequeña en Hewlett-Packard, dejó la prestigiosa compañía para formar Apple Computer junto a otro emprendedor: Steve Jobs.

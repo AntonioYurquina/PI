@@ -1,0 +1,3 @@
+Los **emprendedores** *asumirán riesgos* personales cuando inicien el cambio y esperarán recibir una recompensa, por ello en ocasiones asumir un riesgo razonable puede llevar al fracaso, pero éste debe tolerarse; por último, necesitan cierto grado de libertad para dedicarse a sus ideas, lo que a su vez requiere delegar la suficiente autoridad.
+
+Los **riesgos personales** para los **emprendedores** que tienen su propia empresa son de clase distinta y el fracaso puede significar la bancarrota.

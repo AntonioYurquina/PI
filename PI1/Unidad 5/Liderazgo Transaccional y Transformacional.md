@@ -1,0 +1,5 @@
+# Líderes Transaccionales
+**Identifican qué necesitan hacer los subordinados para alcanzar los objetivos, lo que incluye aclarar las funciones y las tareas organizacionales**, establecer una estructura organizacional, recompensar el desempeño y aportar a las necesidades sociales de sus seguidores. Tales líderes trabajan duro y tratan de operar la organización con efectividad y eficiencia. 
+
+# Líderes Transformacionales
+**Expresan claramente una visión e inspiran a sus seguidores; también tienen la capacidad de motivar, conformar la cultura de la organización y crear un clima favorable para el cambio organizacional**. Compañías como IBM y AT&T tienen programas para promover un liderazgo transformacional diseñado para transformar sus organizaciones con rapidez y responder a los veloces cambios del ambiente
