@@ -9,7 +9,7 @@
 
 ---
 
-### 4. Relación entre los elementos
+### Relación entre los elementos
 
 - El **análisis interno y externo** proporciona información para *identificar problemas y oportunidades*.
     

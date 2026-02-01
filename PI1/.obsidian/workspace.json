@@ -4,41 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "614a1a909ee1fc20",
+        "id": "d351a894e4d04894",
         "type": "tabs",
-        "dimension": 34.97790868924889,
         "children": [
           {
-            "id": "a2e12965e4855f9d",
+            "id": "942bea19420a3200",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TI SI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TI SI"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       },
       {
-        "id": "d351a894e4d04894",
+        "id": "a04eaf2e9c5bf95c",
         "type": "tabs",
-        "dimension": 65.02209131075111,
         "children": [
           {
-            "id": "aa521c8a187119df",
+            "id": "27500d27d7432d44",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Material/Proyectos 1 - Unidad 7 - Los sistemas de información en la organización.pdf"
+                "file": "Evolución de la planificación Estratégica.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Proyectos 1 - Unidad 7 - Los sistemas de información en la organización"
+              "icon": "lucide-file",
+              "title": "Evolución de la planificación Estratégica"
             }
           }
         ]
@@ -204,52 +200,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2e12965e4855f9d",
+  "active": "27500d27d7432d44",
   "lastOpenFiles": [
-    "Material/Proyectos 1 - Unidad 7 - Los sistemas de información en la organización.pdf",
     "TI SI.md",
+    "Planificación de TI/Planificación de Ti SI a partir de la Estrategia de Negocio.md",
     "Unidad 7 - Los Sistemas de Información en la Organización.md",
-    "Proyectos Informaticos I.md",
+    "Unidad 6/Control.md",
+    "Unidad 6/Economía digital emergente.md",
+    "Unidad 6/Puntos de control clave.md",
+    "Unidad 6/Proceso de Control Básico.md",
     "Unidad 6/Unidad 6 - Control.md",
-    "Untitled.md",
+    "Unidad 5/Unidad 5 - Dirección.md",
+    "Unidad 5/Liderazgo.md",
+    "Unidad 5/Comunicación.md",
+    "Unidad 5/Enfoque Ruta-Meta.md",
+    "Unidad 5/Estilos de Liderazgo.md",
+    "Unidad 5/Dirección.md",
+    "Unidad 5/Enriquecimiento del puesto.md",
+    "Unidad 5/Técnicas especiales de motivación.md",
+    "Unidad 5/Teoría de las necesidades de la motivación de McClelland.md",
+    "Unidad 5/Teoría del establecimiento de metas de la motivación.md",
+    "Unidad 5/Teoría de la equidad.md",
+    "Unidad 5/Modelo de motivación de Porter y Lawler.md",
+    "Unidad 5/Teoría de la jerarquía de las necesidades de Maslow.md",
+    "Unidad 5/Teoría de la motivación-higiene de Herzberg.md",
+    "Unidad 5/Teoria X y Teoria Y de McGregor.md",
+    "Unidad 5/Motivación.md",
+    "Unidad 5/Factores Humanos en la Administración.md",
+    "Unidad 4/Enfoque sistémico en la selección.md",
+    "Planificación de TI",
+    "Material/Proyectos 1 - Unidad 7 - Los sistemas de información en la organización.pdf",
+    "Pasted image 20260129013913.png",
+    "Pasted image 20260129013517.png",
     "Unidad 7",
     "Material/Proyectos 1 - Modelos de examenes/Proyectos 1 /Finales/Julio2024.jpeg",
     "Material/Proyectos 1 - Modelos de examenes/Proyectos 1 /Finales/Junio 2024.jpeg",
-    "Unidad 6/Control.md",
-    "Unidad 6/Economía digital emergente.md",
     "Material/Proyectos 1 - Unidad 6 - Control.pdf",
     "IMÁGENES/Pasted image 20260127222013.png",
-    "Unidad 6/Cuadro de Mando Integral.md",
     "IMÁGENES/Pasted image 20260127132755.png",
-    "Unidad 6/Control preventivo o anticipativo.md",
-    "Unidad 6/Benchmarking.md",
     "IMÁGENES/Pasted image 20260124214035.png",
-    "Unidad 6/Control como Sistema de Retroalimentacíon.md",
     "IMÁGENES/Pasted image 20260124213214.png",
-    "Unidad 6/Puntos de control clave.md",
-    "Unidad 6/Proceso de Control Básico.md",
-    "Unidad 6/Establecer Estándares.md",
-    "Unidad 6/Medición del desempeño.md",
-    "Unidad 6/Corrección de Desviaciones.md",
-    "Unidad 5/Unidad 5 - Dirección.md",
     "Unidad 6",
-    "Unidad 5/Pautas para mejorar la comunicación.md",
-    "Unidad 5/Escuchar.md",
     "Material/Proyectos 1 - Unidad 5 - Dirección Parte 2.pdf",
-    "Unidad 5/Comunicación.md",
-    "Unidad 5/El flujo de la comunicación en la organización.md",
     "IMÁGENES/Pasted image 20260124182811.png",
-    "Unidad 5/Proceso de Comunicación.md",
     "IMÁGENES/Pasted image 20260124182741.png",
-    "IMÁGENES/Pasted image 20260124182708.png",
-    "Unidad 5/Propocito de la Comunicación.md",
-    "IMÁGENES/Pasted image 20260124182414.png",
-    "Unidad 5/Liderazgo.md",
-    "Unidad 5/Liderazgo Transaccional y Transformacional.md",
     "Material/Proyectos 1 - Unidad 5 - Dirección Parte 1.pdf",
     "Unidad 5",
     "Material/Proyectos 1 - Unidad 4 - Integracion de Personal.pdf",
-    "Unidad 4",
-    "Material/Proyectos 1 - Unidad 3 - Organización.pdf"
+    "Unidad 4"
   ]
 }

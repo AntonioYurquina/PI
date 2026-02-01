@@ -26,14 +26,6 @@ El término **emprendedor** designa a una persona **creativa** e **[[Innovadora]
 ---
 ## Crear un ambiente para el espíritu empresarial
 
-
-
-
-
----
-
-## Crear un ambiente para el espíritu empresarial
-
 Algunas maneras de mejorar el ambiente y, por tanto, la probabilidad de comportamientos innovadores y empresariales dentro de una organización incluyen las siguientes:
 
 1. La **alta dirección** debe indicar claramente qué valora como comportamiento innovador y emprendedor, y crear incentivos para esas actividades.
