@@ -1,5 +1,10 @@
 La **delegación del poder** **de decisión** o **empowerment** implica que los empleados, gerentes o equipos de todos los niveles de la organización reciban el poder de decidir sin solicitar autorización de sus superiores.
 
+Se da cuando un **superior otorga a un subordinado autoridad y criterio para tomar decisiones**, necesarias para cumplir sus tareas.
+
+📌 Regla clave:
+> _Nadie puede delegar una autoridad que no posee._
+
 La idea subyacente al **empowerment** es que los que están más próximos a la tarea son más capaces de tomar decisiones, *siempre que tengan las capacidades necesarias*. En realidad, la noción de delegación de poder de decisión se basa históricamente en esquemas de sugerencias, ampliación de las responsabilidades laborales y participación del trabajador.
 
 Tanto la **delegación de autoridad** como el **poder de decisión** son cuestión de grado, y *requieren que los empleados y el equipo acepten la responsabilidad* de sus acciones y funciones.

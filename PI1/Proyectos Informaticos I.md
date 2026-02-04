@@ -13,6 +13,7 @@
 ## Unidad 2 -Planificación
 [[Unidad 2 - Planeación]]
 - FODA
+- Matriz de portafolio
 - 5 Fuerzas de Porter, Estrategias genericas de Porter:  XX
 - Desiciones programadas y no programadas
 - Toma de deciciones en condiciones de 
@@ -20,7 +21,7 @@
 	- incertidumbre 
 	- Riezgo
 - Toma de decicion racional: XX
-- Evolucion de alternativas, desarroollo de alternativas
+- Evaluación de alternativas, desarroollo de alternativas
 
 ## Unidad 3 - Organización
 [[Unidad 3 - Organización]]
@@ -52,3 +53,6 @@
 - consideraciones para el exito implementando TI/SI
 
 ---
+# Campana de Gauss
+
+[["Campana de Gauss"]]

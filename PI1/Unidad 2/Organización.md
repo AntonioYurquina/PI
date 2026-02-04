@@ -28,11 +28,14 @@ Luego de entender lo que es la ORGANIZACION, ahora es entender el proceso:
 ---
 
 Por ultimo vemos conceptos finales: (IMPORTANTES)
+- [["PODER"]]
 - [[Autoridad]]
 - [[Delegación del poder de decisión]]
-- [[Autoridad de línea, personal de staff y autoridad funcional]]
-- [[Descentralización de la autoridad]]
 - [[Delegación de autoridad]]
+- [[Descentralización de la autoridad]]
+- [[Autoridad de línea, personal de staff y autoridad funcional]]
+
+
 
 
 ---
