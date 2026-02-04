@@ -1,5 +1,5 @@
 
-**Los puntos seleccionados para el control deben ser clave, en el sentido de ser factores limitantes para la operación o mejores indicadores que otros factores respecto de si los planes están funcionando**. Con tales estándares los administradores pueden manejar un grupo mayor de subordinados y así aumentar su ámbito de administración, con los resultantes ahorros en costos y la mejoría de la comunicación.}
+**Los puntos seleccionados para el control deben ser clave, en el sentido de ser *factores limitantes* para la operación o mejores indicadores que otros factores respecto de si los planes están funcionando**. Con tales estándares los administradores pueden manejar un grupo mayor de subordinados y así aumentar su ámbito de administración, con los resultantes ahorros en costos y la mejoría de la comunicación.}
 
 El Principio de **control de puntos clave**: **Establece que el control efectivo requiere de la atención de aquellos factores decisivos para evaluar el desempeño en relación con los planes**.
 
